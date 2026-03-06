@@ -7,14 +7,14 @@
       "execution_time_mean": 3.0
     },
     "editing_video": {
-      "cpu_mean": 49.0,
-      "memory_mean": 1130.0,
-      "execution_time_mean": 1.8
+      "cpu_mean": 53.0,
+      "memory_mean": 1250.0,
+      "execution_time_mean": 2.0
     },
     "exporting_video": {
-      "cpu_mean": 68.0,
-      "memory_mean": 1350.0,
-      "execution_time_mean": 7.0
+      "cpu_mean": 72.0,
+      "memory_mean": 1450.0,
+      "execution_time_mean": 7.5
     }
   }
 }
