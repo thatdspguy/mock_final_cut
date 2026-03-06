@@ -2,9 +2,9 @@
   "app": "final_cut",
   "workflows": {
     "importing_video": {
-      "cpu_mean": 40.0,
-      "memory_mean": 900.0,
-      "execution_time_mean": 3.0
+      "cpu_mean": 38.0,
+      "memory_mean": 870.0,
+      "execution_time_mean": 2.7
     },
     "editing_video": {
       "cpu_mean": 50.0,
